@@ -1,0 +1,22 @@
+/.gradle
+/.svn
+/.idea
+/.run
+/*.iml
+/**/*.iml
+/**/*.log
+
+# Intellij
+.idea/
+.run/
+*.iml
+*.iws
+*.list
+
+# Maven
+.mvn/
+log/
+target/
+*.project
+maven-repo/
+
